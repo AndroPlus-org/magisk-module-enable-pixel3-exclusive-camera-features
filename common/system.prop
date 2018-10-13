@@ -1,0 +1,5 @@
+# This file will be read by resetprop
+
+ro.product.model=Pixel 3 XL
+ro.product.name=crosshatch
+ro.product.device=crosshatch

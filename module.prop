@@ -1,0 +1,7 @@
+id=p3camera
+name=Enable Pixel 3 camera features
+version=v01
+versionCode=1
+author=showlyshah,AndroPlus
+description=Enable Pixel 3 exclusive camera features on Pixel 2
+minMagisk=1700
